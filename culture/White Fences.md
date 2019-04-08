@@ -30,8 +30,6 @@ _noun_
 
 plural noun: **principles**
 
-
-
 1. 1. 
 2. a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.
 3. "the basic principles of Christianity"
@@ -57,9 +55,6 @@ truth, proposition, concept, idea, theory, postulate; More
    </td>
   </tr>
 </table>
-
-
-
 
     *   a rule or belief governing one's personal behavior.
     *   "struggling to be true to their own principles"
@@ -87,9 +82,6 @@ morals, morality, moral standards, moral values, ethics, code of ethics, beliefs
    </td>
   </tr>
 </table>
-
-
-
 
     *   morally correct behavior and attitudes.
     *   "a man of principle"
@@ -230,8 +222,7 @@ At the end of the meeting, however, everyone commits to the decisions made, rega
 We don’t build or maintain Pets.
 
 
-###  \
-Fact-driven
+### Fact-driven
 
 We gather and use data to drive a decision. We do not use data to rationalize a perspective! If no data exists, make an educated guess. If we don’t know, we ask for help. If we’re really stuck, we do a retrospective. We measure to improve.  We measure everything we can, as often as we can. We use the data and then blend this with our wisdom and experiences in order to drive to fact-based decisions. 
 
