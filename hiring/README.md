@@ -1,1 +1,1 @@
-[https://github.com/culturepack/documents/blob/hiring/hiring/documents.csv|Explanation of Documents]
+[Explanation of Documents](https://github.com/culturepack/documents/blob/hiring/hiring/documents.csv)
