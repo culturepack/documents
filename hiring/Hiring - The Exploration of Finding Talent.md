@@ -4,7 +4,7 @@ This document acknowledges the fact that every company has their own approach. W
 
 The high-level  process is as follows 
 
-![](https://github.com/culturepack/documents/img/hiring-high-level-process-v1.png "High-Level Hiring Process")
+![](https://raw.githubusercontent.com/culturepack/documents/hiring/img/hiring-high-level-process-v1.png "High-Level Hiring Process")
 
 ## The start
 
