@@ -28,12 +28,6 @@ Here are some of  the areas to be avoided.
 
 While a number of these areas need to be covered to determine if the candidate can be legally employed, it is best to leave these areas to the recruiting professional. If a candidate brings them up, simply refer them to the recruiter. Do not discuss these areas. 
 
-## Core Skills 
-In this section each candidate will have a role-specific portion of the loop. We will require a Team of Interviewers for each set of skills. All roles, as applicable, should be assessed for a candidate’s ability to have a clear, technical conversation, as well as their ability to articulate, verbally and written, technical requirements. 
-
-## SDE Skills 
-Each candidate will be required to perform a paired programming exercise. 
- 
 ## Interviewers should be able to: 
 * Demonstrate empathy for a candidate placed in a stressful situation marked by an imbalance of power 
 * “Sell” working at the company, describe the mission and culture (the interview process is a two-way street) 
@@ -47,7 +41,13 @@ Each candidate will be required to perform a paired programming exercise.
 * Conduct different types of interviews (e.g. algorithm implementation, system architecture) 
 * Focus on problem solving and general software design skills, not trivia knowledge 
 
-## Candidates should demonstrate knowledge, experience, and skill in areas relevant to our software development process: 
+## Core Skills 
+In this section each candidate will have a role-specific portion of the loop. We will require a Team of Interviewers for each set of skills. All roles, as applicable, should be assessed for a candidate’s ability to have a clear, technical conversation, as well as their ability to articulate, verbally and written, technical requirements. 
+ 
+### SDE Skills 
+Each candidate will be required to perform a paired programming exercise. 
+
+### Candidates should demonstrate knowledge, experience, and skill in areas relevant to our software development process: 
 * Willingness to learn new languages/tools/systems/processes 
 * Requirement Analysis 
 * Dealing with ambiguity 
@@ -89,12 +89,12 @@ Understanding how a candidate approaches problem solving is a critical. We are l
 
 Each candidate should discuss monitoring and how they have approached it. They should be touching on things being actionable and avoiding alert fatigue.
 
-### SRE
+#### SRE
 * Each SRE candidate will be required to perform a troubleshooting exercise as well as a paired programming exercise that either creates a program or a script. These exercises should be based on prior or current iStreamPlanet situations.
 * SRE candidates should give details of how they have automated a traditionally manual process.
  
 
-## Product Owner Skills 
+### Product Owner Skills 
 Feature prioritization based on customer input: 
 * Each candidate needs to provide examples of how they prioritize and decide on what needs to be built based on customer interactions. We are operating on the assumption that recent performance on their recent iterations is an indicator of future performance. 
 * Understanding how the candidate leverages data collection in order to make fact-driven decisions. How do the candidates collect customer feedback, in both quantitative and qualitative metrics and manners. 
@@ -116,7 +116,7 @@ Feature prioritization based on customer input:
 * They need to have an understanding of measuring projects and programs based on fact drive decisions and more than just is it on time and on budget. 
 * The candidate should provide examples of how they helped the team with blockers and how the team succeeded. 
 
-### (Possible Questions)
+#### (Possible Questions)
 * How do you measure your project/program success? 
 * How do you influence teams without authority? 
 * How do you meld together traditional view of PM and agile views of project management? 
@@ -125,7 +125,7 @@ Feature prioritization based on customer input:
 * In your own words, define a project’s success. 
 * How do you handle multiple projects with conflicting priorities? Describe a time in which you had to do so. What were the give and takes you had to make, and were you successful? 
 
-## Customer Success Skills 
+### Customer Success Skills 
 * Customer Success Engineer 
 * Candidates should have Enterprise level experience in senior engineering yet customer facing role. Their skill set and experience should include: 
 * Customer empathy 
@@ -149,49 +149,49 @@ Feature prioritization based on customer input:
 #### Each candidate needs to be evaluated on the following specific skills: 
 *(Work in progress)*
 
-## People Leader 
+### People Leader 
 The short version is that we need People Leaders who understand this is a thankless role in which employee needs will always be put ahead of their personal needs. While traditional authoritative management techniques deliver results in the short term, they do not result in long-term sustainable structures. In addition, we need people who understand how to balance basic human rights and decency while also being able to meet aggressive business goals. 
 
 * Ability to handle standard manager responsibilities such reviews, 1:1’s and other coaching tasks. Behavior modification skills are critical with the ability to have crucial conversations with empathy, focus, safety and clarity. Ability to understand that no one is perfect, leveraging coaching or disciplinary action when warranted to address behaviors or actions. 
 * Not afraid of conflict. 
 
-### Behavior 
+#### Behavior 
 This quadrant is often underrated in priority and considering that we are looking for strong teams, we need to be as diligent here as we are on core skills. So, some of the core competencies that need to be covered are: 
 
-### Teamwork 
+#### Teamwork 
 We are looking for people that are capable of operating as part of a team. 
 
-### Self Awareness 
+#### Self Awareness 
 We need candidates to be able to aware of what is going on around them and modify their behaviors accordingly. We need people that are aware of the impact of their behaviors on others as well the implications of technical approaches on the business. 
 
-### Communication 
+#### Communication 
 We work with colleagues and customers and as such we need to communicate with them. We need to evaluate candidates ability to communicate in the following areas: active listening, clarity, conciseness, both spoken and nonverbal, friendliness, and respect. 
 
-### Conflict Management 
+#### Conflict Management 
 Healthy conflict resolution is critical to a healthy culture. As such, we need every employee to understand that conflict avoidance is as damaging as combative behavior. 
 
-### Influence 
+#### Influence 
 This often underrated behavior is required horizontally with peers, both known and unknown, downward to customers where less data may be provided because there is less context, and upward to our board. We need to understand the candidate’s awareness of informal and formal structured influence and how to leverage which approach for different situations. 
 
-### Accountability 
+#### Accountability 
 Ensure that every candidate is able to account for actions and decisions, demonstrate that that accepted responsibility for them, and to disclose the results in a transparent manner. This is important when things did have the desired result and also ensuring that others received the reward and recognition for their efforts. 
  
-### Mindset 
+#### Mindset 
 This quadrant covers key mindset that will enable our company to continue to grow and accelerate our efforts to meet our customer needs. 
 
-### Fixed vs Learning 
+#### Fixed vs Learning 
 People with a learning mindset believe that their knowledge grows over time and with experience. As knowledge is the first step of the growth journey, we are looking for people who are capable of continuous learning and skills growth. 
 
-### Bias for Action 
+#### Bias for Action 
 We are looking for people whose default stance is to take action to improve the situation. As we are all aware, movement for the sake of movement is undesirable; yet decision-making should not lead to paralysis. Therefore, the Interviewer must also determine if the candidate evaluates risk in an expedient manner. 
 
-### Dealing with Ambiguity 
+#### Dealing with Ambiguity 
 People like certainty and clarity. However, we do not live in a polar world. We are looking for candidates that can help us bring clarity to our competitive landscape. \
 
-### Inclusive 
+#### Inclusive 
 This can also be called open-mindedness or mindfulness. We are looking for candidates that are open to the ideas of others and are able to communicate effectively in order to achieve alignment and commit. 
 
-### Disagree and Commit 
+#### Disagree and Commit 
 This is a philosophy from Intel’s Andy Grove and it is simple. It is the ability to  disagree in a respectful manner while the decision in being made but once a decision has been made to commit to it. 
 
 
