@@ -136,7 +136,7 @@ Feature prioritization based on customer input:
 * The ability to provide solutions within popular stacks, frameworks, and technology 
 * Mastered Crisis Leadership 
 
-### Questions/Scenarios: 
+#### Questions/Scenarios: 
 * Give an example of the last mistake you made. What did you learn and what did you do to prevent yourself and others from making that mistake again? 
 * Tell me about a problem that you have recently solved with automation/scripting; How did you solve it and tell me about any challenges that you  experienced in creating that automation/scripting. 
 * What recent solution are you most proud of implementing and why? 
@@ -146,8 +146,8 @@ Feature prioritization based on customer input:
 * Give an example of when you had to make a decision based on facts, what was the problem and how did you arrive at determining the data points required to make the decision? 
 * Customer Engagement Loop 
 
-### Each candidate needs to be evaluated on the following specific skills: \
-(Work in progress)  
+#### Each candidate needs to be evaluated on the following specific skills: 
+*(Work in progress)*
 
 ## People Leader 
 The short version is that we need People Leaders who understand this is a thankless role in which employee needs will always be put ahead of their personal needs. While traditional authoritative management techniques deliver results in the short term, they do not result in long-term sustainable structures. In addition, we need people who understand how to balance basic human rights and decency while also being able to meet aggressive business goals. 
