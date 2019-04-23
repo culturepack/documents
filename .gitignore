@@ -1,0 +1,7 @@
+.htaccess
+.DS_*
+.ds_*
+*.log
+.slack
+.swp
+.desktop*
