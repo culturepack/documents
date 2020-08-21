@@ -1,13 +1,11 @@
 
-
-## White Fences
+## Picket Fences
 
 This document is a collection of behaviors and guidelines that have worked for the teams in the past and are being used to help newcomers understand our culture (although we all need reminders occasionally). Therefore, the team commit to review, reflect and retrospective this document on a quarterly basis. This ensures that this is a continually evolving document.
 
 When I moved to the USA from South Africa, I met with a representative from a well known Southern company and he shared the following with me, well at least this is my recollection.
 
-He started off by sharing some photos of Lexington, his hometown. He showed the green grass, the beautiful horse properties, the white fences and then he shared the following about the white fences:
-
+He started off by sharing some photos of Lexington, his hometown. He showed the green grass, the beautiful horse properties, the picket fences and then he shared the following about the picket fences:
 
 
 *   Allow the kids to easily climb over them
